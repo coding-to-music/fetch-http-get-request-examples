@@ -102,7 +102,6 @@ Example Fetch GET request at https://stackblitz.com/edit/fetch-http-get-request-
 
  
 
-
 ## Subscribe or Follow Me For Updates
 Subscribe to my YouTube channel or follow me on Twitter, Facebook or GitHub to be notified when I post new content.
 
