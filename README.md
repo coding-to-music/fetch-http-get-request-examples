@@ -13,14 +13,14 @@ Below is a quick set of examples to show how to send HTTP GET requests to an API
 
 ## Other HTTP examples available:
 
-Fetch: POST, PUT, DELETE
-Axios: GET, POST, PUT, DELETE
-React + Fetch: GET, POST, PUT, DELETE
-React + Axios: GET, POST, PUT, DELETE
-Angular: GET, POST, PUT, DELETE
-Vue + Fetch: GET, POST
-Vue + Axios: GET, POST
-Blazor WebAssembly: GET, POST
+- Fetch: POST, PUT, DELETE
+- Axios: GET, POST, PUT, DELETE
+- React + Fetch: GET, POST, PUT, DELETE
+- React + Axios: GET, POST, PUT, DELETE
+- Angular: GET, POST, PUT, DELETE
+- Vue + Fetch: GET, POST
+- Vue + Axios: GET, POST
+- Blazor WebAssembly: GET, POST
 
 ## Simple GET request using fetch
 This sends an HTTP GET request to the Reqres api which is a fake online REST api used for testing, it includes an /api/users route that supports GET requests and returns an array of users plus the total number of users. This example writes the total from the response to the #get-request .total element so it's displayed on the page.
@@ -106,14 +106,14 @@ Example Fetch GET request at https://stackblitz.com/edit/fetch-http-get-request-
 ## Subscribe or Follow Me For Updates
 Subscribe to my YouTube channel or follow me on Twitter, Facebook or GitHub to be notified when I post new content.
 
-Subscribe on YouTube at https://www.youtube.com/JasonWatmore
-Follow me on Twitter at https://twitter.com/jason_watmore
-Follow me on Facebook at https://www.facebook.com/JasonWatmoreBlog
-Follow me on GitHub at https://github.com/cornflourblue
-Feed formats available: RSS, Atom, JSON
+- Subscribe on YouTube at https://www.youtube.com/JasonWatmore
+- Follow me on Twitter at https://twitter.com/jason_watmore
+- Follow me on Facebook at https://www.facebook.com/JasonWatmoreBlog
+- Follow me on GitHub at https://github.com/cornflourblue
+- Feed formats available: RSS, Atom, JSON
 ## Other than coding...
 I'm currently attempting to travel around Australia by motorcycle with my wife Tina on a pair of Royal Enfield Himalayans. You can follow our adventures on YouTube, Instagram and Facebook.
 
-Subscribe on YouTube at https://www.youtube.com/TinaAndJason
-Follow us on Instagram at https://www.instagram.com/tinaandjason
-Follow us on Facebook at https://www.facebook.com/TinaAndJasonVlog
+- Subscribe on YouTube at https://www.youtube.com/TinaAndJason
+- Follow us on Instagram at https://www.instagram.com/tinaandjason
+- Follow us on Facebook at https://www.facebook.com/TinaAndJasonVlog
