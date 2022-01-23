@@ -1,0 +1,21 @@
+{
+  "name": "fetch-http-get-request-examples",
+  "version": "1.0.0",
+  "description": "By [Jason Watmore](https://jasonwatmore.com/contact)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-to-music/fetch-http-get-request-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-to-music/fetch-http-get-request-examples/issues"
+  },
+  "homepage": "https://github.com/coding-to-music/fetch-http-get-request-examples#readme"
+}
